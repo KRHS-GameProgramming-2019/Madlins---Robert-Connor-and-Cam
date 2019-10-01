@@ -84,5 +84,7 @@ swearList = ["poop",
               "bitch",
               "matt",
               "cunt",
-              "nigga"
+              "nigga",
+              "nigger",
+              "fag",
 ]
