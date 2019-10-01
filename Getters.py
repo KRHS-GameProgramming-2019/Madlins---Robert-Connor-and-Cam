@@ -48,7 +48,10 @@ def getSport(prompt, debug = False):
     sports = ["soccer",
               "football",
               "hockey",
-              "wrestling"]
+              "wrestling",
+              "rugby",
+              "cheese rolling",
+              "toe wrestling"]
     
     while not goodInput:
         word = input(prompt)
@@ -72,5 +75,14 @@ def isSwear(word, debug = False):
 
 
 swearList = ["poop",
-             "pee"
+             "pee",
+             "shit",
+              "fuck",
+              "ass",
+              "asshole",
+              "dick",
+              "bitch",
+              "matt",
+              "cunt",
+              "nigga"
 ]
