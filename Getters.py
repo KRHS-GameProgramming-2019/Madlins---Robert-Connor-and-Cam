@@ -65,6 +65,8 @@ def getSport(prompt, debug = False):
               "fishing"
               "gaming"
               "hunting"
+              "badmitten"
+              "kickball"
     
     while not goodInput:
         word = input(prompt)
