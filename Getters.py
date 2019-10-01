@@ -51,7 +51,15 @@ def getSport(prompt, debug = False):
               "wrestling",
               "rugby",
               "cheese rolling",
-              "toe wrestling"]
+              "toe wrestling"
+              "basketball"
+              "swimming"
+              "cricket"
+              "tennis"
+              "volleyball"
+              "track"
+              "waterbottle flipping"
+              "motorcross"
     
     while not goodInput:
         word = input(prompt)
