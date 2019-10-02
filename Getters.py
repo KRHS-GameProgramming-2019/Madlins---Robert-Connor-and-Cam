@@ -111,4 +111,35 @@ swearList = ["poop",
               "nigga",
               "nigger",
               "fag",
-]
+              "dick",
+              "motherfucker"
+              "slut"
+              "hoe"
+              "bastard"
+              "damn"
+              "holy shit"
+              "hell"
+              "horseshit"
+              "goddamn"
+              "bastard"
+              "asshole"
+              "jesus christ"
+              "christ on a bike"
+              "child-fucker"
+              "christ on a cracker"
+              "jesus fuck"
+              "prick"
+              "shithead"
+              "shitface"
+              "shitass"
+              "wiseass"
+              "whore"
+              "retard"
+              "Fagot"
+              "douchebag"
+              "twat"
+              "bastard"
+              
+              
+              
+
