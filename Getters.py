@@ -58,7 +58,7 @@ def getSport(prompt, debug = False):
               "tennis",
               "volleyball",
               "track",
-              "waterbottle flipping",,
+              "waterbottle flipping",
               "motorcross",
               "skateboard",
               "archery",
@@ -72,7 +72,7 @@ def getSport(prompt, debug = False):
               "Golf",
               "handball",
               "roeing",
-              
+              ]
               
               
               
@@ -140,6 +140,6 @@ swearList = ["poop",
               "twat",
               "bastard",
               
-              
+              ]
               
 
