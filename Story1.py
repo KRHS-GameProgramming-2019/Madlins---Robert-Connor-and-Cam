@@ -6,12 +6,14 @@ def Story1(debug = False):
     print("\n")
     friendName1 = getWord("Enter a name: ", debug)
     sport1 = getSport("Enter a Sport: ", debug)
+    game = getWord ("Type an Xbox game: ", debug)
     
     out = "\n"
     out += "One day me and my friend, " + friendName1
     out += " were out playing " + sport1
     out += "my freind got tired" + freindName1
     out += "my freind and I went over my house"+ friendName1
+    out += "we played Xbox"+ game
     
     
     
