@@ -72,7 +72,7 @@ def getSport(prompt, debug = False):
               "Golf",
               "handball",
               "roeing",
-              
+              ]
               
               
               
@@ -140,6 +140,6 @@ swearList = ["poop",
               "twat"
               "bastard"
               
-              
+              ]
               
 
