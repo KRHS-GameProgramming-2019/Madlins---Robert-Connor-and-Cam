@@ -58,7 +58,7 @@ def getSport(prompt, debug = False):
               "tennis",
               "volleyball",
               "track",
-              "waterbottle flipping",,
+              "waterbottle flipping",
               "motorcross",
               "skateboard",
               "archery",
