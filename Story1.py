@@ -11,10 +11,10 @@ def Story1(debug = False):
     
     out = "\n"
     out += "One day me and my friend, " + friendName1
-    out += " were out playing " + sport1
-    out += + freindName1 + " got tired " + friendName1
-    out += " freindName and I went over my house "+ friendName1
-    out += " we played Xbox "+ game
+    out += " were out playing " + sport1 " with " friendName1
+    out += " we both got tired " + friendName1
+    out += " and we went over to my house "+ friendName1
+    out += " to play together "+ game
     out += " he lost and I won "
     out += "we got " + snack + " to eat"
     out +=  "we went back outside and played " + sport1
