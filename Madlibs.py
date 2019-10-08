@@ -1,4 +1,6 @@
-# Written by Chris Spooner
+                           .
+                            
+                            # Written by Chris Spooner
 #            Chris Spooner's Clone
 
 from Screens import *
