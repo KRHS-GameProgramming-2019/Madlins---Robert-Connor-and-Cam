@@ -1,4 +1,4 @@
-                           .
+
                             
                             # Written by Chris Spooner
 #            Chris Spooner's Clone
